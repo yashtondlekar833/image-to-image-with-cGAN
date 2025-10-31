@@ -70,4 +70,4 @@ With extended training and more data, it can perform complex image translation t
 **Yash Tondlekar**  
 Final Year – B.Tech Electronics & Telecommunication Engineering  
 Dr. Babasaheb Ambedkar Technological University, Lonere  
-📧 pranayphepade834@gmail.com  
+
